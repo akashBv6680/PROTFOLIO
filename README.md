@@ -6,7 +6,7 @@
 - Name: Akash B V
 - Email: akashvishnu6680@gmail.com
 - Phone: 9789216680
-- LinkedIn: (link unavailable)
+- LinkedIn: https://www.linkedin.com/in/akash-bv-b14a00279/
 
 
 # Professional Summary:
